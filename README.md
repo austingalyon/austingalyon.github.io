@@ -9,5 +9,6 @@ Feel free to poke around, just have mercy on me! haha
 
 ### AndroidAuto on Raspberry Pi - ([PopupRobots](http://www.norfolkjs.org/) on [March 15, 2018](https://www.meetup.com/NorfolkJS/events/246940328/))
 This talk is about setting up and running AndroidAuto on a Raspberry Pi 3 using [OpenAuto](https://github.com/f1xpl/openauto) and [aasdk](https://github.com/f1xpl/aasdk).
+
+- [My compiled build instructions of both aasdk and OpenAuto](austingalyon.github.io/androidauto-wpi/instructions)
 - Talk Slides (if I make them): *insert slide links here*
-- My compiled build instructions of both aasdk and OpenAuto: *Link to build instructions page*
