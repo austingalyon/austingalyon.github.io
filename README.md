@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/austingalyon/austingalyon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This aim of this site is to be an easily accessible and updateable page to link to any presentation materials I have or any cool stuff I build if I ever get around to it.  
+My intent is to eventually switch over to a fully custom/hosted site but knowing me that probably won't happen soon. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to poke around, just have mercy on me! haha
 
-### Markdown
+## Talks/Presentations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/austingalyon/austingalyon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### AndroidAuto on Raspberry Pi - ([PopupRobots](http://www.norfolkjs.org/) on [March 15, 2018](https://www.meetup.com/NorfolkJS/events/246940328/))
+This talk is about setting up and running AndroidAuto on a Raspberry Pi 3 using [OpenAuto](https://github.com/f1xpl/openauto) and [aasdk](https://github.com/f1xpl/aasdk).
+- Talk Slides (if I make them): *insert slide links here*
+- My compiled build instructions of both aasdk and OpenAuto: *Link to build instructions page*
