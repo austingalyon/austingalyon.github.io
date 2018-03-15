@@ -31,7 +31,7 @@ Feel free to just ignore me and go to the official pages if it's been some time 
 - C++ compiler with support of C++14 standard
 
 ### Instructions
-0. *I highly recommend running `sudo apt-get update` prior to continuing to prevent issues with installing packages. Especially if this is from scratch.* 
+* *I highly recommend running `sudo apt-get update` prior to continuing to prevent issues with installing packages. Especially if this is from scratch.* 
 
 1. Install needed packages and software
 `$ sudo apt-get install -y libboost-all-dev libusb-1.0.0-dev libssl-dev cmake libprotobuf-dev protobuf-c-compiler protobuf-compiler`
