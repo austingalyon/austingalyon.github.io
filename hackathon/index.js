@@ -79,7 +79,7 @@ function initMap() {
   // document.getElementById('toggleNav').addEventListener('click', animateArrow(line));
 
   createArrow();
-  //animateArrow();
+  animateArrow();
 }
 
 function increasePoints() {
@@ -148,7 +148,7 @@ function zoneCheck(offset){
   
   
 
-  // pointsLogic();
+  pointsLogic();
 }
 
 function createArrow() {
