@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/index.css">
+  <script src="/index.js"></script>
+
+  
+  <title>LiveDrv</title>
+  <meta name="theme-color" content="#051937">
+</head>
+<body>
+  <div id="floating-panel">
+    <button onclick="toggleHeatmap()">Toggle Heatmap</button>
+    <button onclick="toggleSafeDriving()">Toggle Safe Driving</button>
+    <button onclick="toggleRoute()">Toggle Route</button>
+    <button onclick="toggleNavigation()" id="toggleNav">Toggle Navigation</button>
+<!--     <button id="toggleNav">Toggle Navigation</button> -->
+
+
+  </div>
+  <div id="map"></div>
+  <div class="points-tracker">
+    <h3>Demo Dashboard</h3>
+    <p><span id="placePoints">0</span> points</p>
+    <div id="safeDrivingIndicator"></div>
+  </div>
+<!--   <div class="modal">
+    <h2 class="modal__heading">Getting Started</h2>
+    <button class="modal__button">
+      Ok, got it
+    </button>
+    <div class="modal__close">&times;</div>
+  </div> -->
+  <!-- Replace the value of the key parameter with your own API key. -->
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBC4MSWc-iQjRJkq8jVegi0Iead3OPmI10&libraries=visualization&callback=initMap">
+
+
+  </script>
+
+</body>
+</html>
